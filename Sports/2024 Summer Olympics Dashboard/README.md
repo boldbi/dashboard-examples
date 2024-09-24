@@ -12,10 +12,10 @@ To access and use the key metrics and KPIs in this sample dashboard, simply clon
 - **Interactive Visualizations**: User-friendly visuals and filters for custom views.
 
 ## Files Included
-- [`Olympic 2024_Dashboard.bbix`](https://github.com/boldbi/dashboard-examples/blob/master/Sports/2024%20Summer%20Olympics%20Dashboard/2024%20Summer%20Olympics%20Dashboard.bbix): This .bbix file contains the complete configuration for this Bold BI dashboard, including layout settings, data source connections, visualizations, interactive filters, user permissions, custom scripts, and metadata, enabling seamless reproduction and interaction within the Bold BI environment.
-- `Data/`: This folder contains the raw data files used for the dashboard.
-- `README.md`: This file contains the overview of the user, dashboard title, and the files included.
-- `Snapshot.zip` :This documentation file provides an overview of the dashboard, including its key metrics like highest medal counts in sports and medals won by top countries, and the widget images.
+- [Olympic 2024_Dashboard.bbix](https://github.com/boldbi/dashboard-examples/pull/2/files#diff-b23735afbf56751a50311827af60de6c0685a144619849d0f35d00f5ad89966a): This .bbix file contains the complete configuration for this Bold BI dashboard, including layout settings, data source connections, visualizations, interactive filters, user permissions, custom scripts, and metadata, enabling seamless reproduction and interaction within the Bold BI environment.
+- [Data](https://github.com/boldbi/dashboard-examples/pull/2/files#diff-66f758d2d312965dd6c71b6b84e5fe8c67ee86bb1cc2ff6af486c94118048a4c): This folder contains the raw data files used for the dashboard.
+- [README.md] (https://github.com/boldbi/dashboard-examples/pull/2/files#diff-da579e8226a2f92e86a500379f0b8c4aa04fc52c759b2ef745faa877061eec43): This file contains the overview of the user, dashboard title, and the files included.
+- [Snapshot.zip] (https://github.com/boldbi/dashboard-examples/pull/2/files#diff-ea01a22a75790ee6f6aedcd4e1d4a8db920e525ab93adc7f4e1fe1d088f5b82f) :This documentation file provides an overview of the dashboard, including its key metrics like highest medal counts in sports and medals won by top countries, and the widget images.
 
 ## Data Sources
 - **Medals**: Official data provided by the International Olympic Committee.
