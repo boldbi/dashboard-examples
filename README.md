@@ -1,7 +1,9 @@
 # 2024 Summer Olympics Dashboard
 
 ## Overview
-This project features an interactive and detailed Bold BI dashboard focusing on the 2024 Summer   Olympics, held in August 2024 in Paris. The dashboard provides insights into various aspects of the event, including medal tallies, athlete performances, country comparisons, and sports medal distribution.
+This project features an interactive and detailed Bold BI dashboard focusing on the 2024 Summer Olympics, held in August 2024 in Paris. The dashboard provides insights into various aspects of the event, including medal tallies, athlete performances, country comparisons, and sports medal distribution.
+
+To get the sample custom widgets used in this dashboard, simply clone this GitHub repository using Git. (https://github.com/boldbi/dashboard-examples)
 
 ## Features
 - **Medal Tally**: Distribution of gold, silver, and bronze medals by country and sport.
@@ -14,26 +16,6 @@ This project features an interactive and detailed Bold BI dashboard focusing on 
 - `Data/`: This folder contains the raw data files used for the dashboard.
 - `README.md`: This file contains the overview of the user, dashboard title, and the files included.
 - `Snapshot.zip` :This documentation file provides an overview of the dashboard, including its key metrics like highest medal counts in sports and medals won by top countries, and the widget images.
-
-### Installation
-### Prerequisites
-To install or deploy Bold BI product on platforms, including Windows, Azure, Linux, and Kubernetes, refer to this link (https://help.boldbi.com/deploying-bold-bi/)
-
-- **Bold BI WWindows**: Download and install from without using the istaller [Bold BI website](https://support.boldbi.com/kb/article/16695/how-to-install-bold-bi-in-windows-server-machine-without-using-installer?highlight=installation).
-
-### Steps
-1. Click on the + option to upload the dashboard in Bold BI. 
-2. Click the Upload Dashboards button to open the UI where you can upload the dashboards. This action will open the dashboard upload interface, where you can upload this dashboard.
-3. In the upload interface follow the instructions to select the dashboard files you wish to upload.
-  - After the dashboard uploads, the interface will be rendered and displayed on the user interface.
-  - Click on the Browse option to navigate to the downloaded file location.
-  - The dashboard files can be either with bbix or zip extension.
-
-4. After selecting the dashboard file to upload, wait for the upload process to complete.
-
-5. You will receive a message indicating that the files have been successfully uploaded.
-
-6. Once you see this message, you can proceed to the next step by clicking the Next button.
 
 ## Data Sources
 - **Medals**: Official data provided by the International Olympic Committee.
