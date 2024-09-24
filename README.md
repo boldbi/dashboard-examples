@@ -1,7 +1,7 @@
 # 2024 Summer Olympics Dashboard
 
 ## Overview
-This project features an interactive and detailed Bold BI dashboard focusing on the 2024 Summer Olympics, held in August 2024 in Paris. The dashboard provides insights into various aspects of the event, including medal tallies, athlete performances, country comparisons, and sports medal distribution.
+This project features an interactive and detailed Bold BI dashboard focusing on the 2024 Summer   Olympics, held in August 2024 in Paris. The dashboard provides insights into various aspects of the event, including medal tallies, athlete performances, country comparisons, and sports medal distribution.
 
 To access and use the key metrics and KPIs in this sample dashboard, simply clone the GitHub repository using Git. (https://github.com/boldbi/dashboard-examples)
 
@@ -26,8 +26,9 @@ To access and use the key metrics and KPIs in this sample dashboard, simply clon
 - **Export**: Use the export options to export visualizations and data tables as per your needs.
 
 ## Accounts
-To download this Bold BI dashboard, visit your account page (https://www.boldbi.com/account) or sign up for a free 15-day trial (https://app.boldid.net/bi/embedded/register?plan=192&evaluation=v2) on our website.
+You can download and upload this dashboard to the Bold BI Sandbox site to explore its features, metrics, and KPIs in an interactive environment. To get started, visit your account page. (https://www.boldbi.com/account). For detailed instructions on downloading and uploading Bold BI dashboards, refer to this KB article. (https://support.boldbi.com/kb/article/15356/how-to-download-and-upload-dashboards-in-bold-bi) 
 
 ## Contact
 For any inquiries regarding this dashboard or further information, you can contact us through the Bold BI website (https://www.boldbi.com/contact) or, if you already have an account, you can log in (https://www.boldbi.com/account) to submit your support questions.  
+
 
