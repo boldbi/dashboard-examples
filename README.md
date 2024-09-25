@@ -1,4 +1,4 @@
-# dashboard-examples
+# Dashboard Examples
 Bold BI offers a variety of dashboards like this one categorized under industries, departments, and data analytics to meet diverse user needs. You can explore these dashboards to gain valuable insights tailored to your specific area of interest and enhance your decision-making process by checking our [dashboard example page](https://www.boldbi.com/dashboard-examples/).
 
 ## Embedded analytics
