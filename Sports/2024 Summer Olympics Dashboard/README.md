@@ -15,7 +15,6 @@ To access and use the key metrics and KPIs in this sample dashboard, simply clon
 - [`Olympic 2024_Dashboard.bbix`](https://github.com/boldbi/dashboard-examples/blob/master/Sports/2024%20Summer%20Olympics%20Dashboard/2024%20Summer%20Olympics%20Dashboard.bbix): This .bbix file contains the complete configuration for this Bold BI dashboard, including layout settings, data source connections, visualizations, interactive filters, user permissions, custom scripts, and metadata, enabling seamless reproduction and interaction within the Bold BI environment.
 - `Dataset`: This folder contains the raw data files used for the dashboard.
 - `README.md`: This file contains the overview of the user, dashboard title, and the files included.
-- `Dashboard Expressions..docx`: This file contains the expression included in the dashboard.
 - `Snapshot` : This documentation file provides an overview of the dashboard, including its key metrics, like highest number of medals in sports and medals won by top countries, and the widget images.
 
 ## Data Sources
